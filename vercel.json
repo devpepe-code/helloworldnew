@@ -3,19 +3,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/index2.html"
-    },
-    {
-      "source": "/preview.html",
-      "destination": "/frontend/preview.html"
-    },
-    {
-      "source": "/config.js",
-      "destination": "/frontend/config.js"
-    },
-    {
-      "source": "/favicon.svg",
-      "destination": "/frontend/favicon.svg"
+      "destination": "/index.html"
     }
   ]
 }
